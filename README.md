@@ -35,8 +35,32 @@ temperature trends.
 
 
 ## Project 2 : Investigate a Dataset (TMDb Movie Data)
-In this project, I have chosen one of Udacity’s curated datasets and investigate it using NumPy and pandas. I have completed the entire data analysis process, starting by posing a question and finishing by
-sharing your findings.
+In this project, I have chosen one of Udacity’s curated datasets and investigate it using NumPy and pandas. I have completed the entire data analysis process, starting by posing a question and finishing by sharing your findings.
+
+![image](https://user-images.githubusercontent.com/83236722/120814198-8b46fd00-c546-11eb-9aad-f6482f426f4a.png)
+
+![image](https://user-images.githubusercontent.com/83236722/120814308-a9146200-c546-11eb-862c-834b66c6561a.png)
+
+![image](https://user-images.githubusercontent.com/83236722/120814401-bf222280-c546-11eb-922a-cbe630586929.png)
+
+![image](https://user-images.githubusercontent.com/83236722/120814524-deb94b00-c546-11eb-9ffe-a8ac8aed9b53.png)
+
+![image](https://user-images.githubusercontent.com/83236722/120814576-eed12a80-c546-11eb-9b76-e946bca5c74d.png)
+
+![image](https://user-images.githubusercontent.com/83236722/120814684-06101800-c547-11eb-9764-4cd24c718156.png)
+
+![image](https://user-images.githubusercontent.com/83236722/120814758-145e3400-c547-11eb-9517-5e54dfc33561.png)
+
+![image](https://user-images.githubusercontent.com/83236722/120814850-2b9d2180-c547-11eb-8bc2-4dee6aef5786.png)
+
+![image](https://user-images.githubusercontent.com/83236722/120814952-4a9bb380-c547-11eb-8267-1994a9275cfc.png)
+
+![image](https://user-images.githubusercontent.com/83236722/120815029-5d15ed00-c547-11eb-9ed9-ec2b7f792c1b.png)
+
+![image](https://user-images.githubusercontent.com/83236722/120815077-6a32dc00-c547-11eb-8c45-70d62d237495.png)
+
+![image](https://user-images.githubusercontent.com/83236722/120815155-7cad1580-c547-11eb-9681-10decf824af1.png)
+
 
 ## Project 3 : Analyze A/B Test Results
 In this project, I have been provided a dataset reflecting data collected from an experiment. I have used statistical techniques to answer questions about the data and report my conclusions and
