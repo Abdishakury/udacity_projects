@@ -63,8 +63,36 @@ In this project, I have chosen one of Udacity’s curated datasets and investiga
 
 
 ## Project 3 : Analyze A/B Test Results
-In this project, I have been provided a dataset reflecting data collected from an experiment. I have used statistical techniques to answer questions about the data and report my conclusions and
-recommendations in a report
+In this project, I have been provided a dataset reflecting data collected from an experiment. I have used statistical techniques to answer questions about the data and report my conclusions and recommendations in a report.
+
+![image](https://user-images.githubusercontent.com/83236722/120815685-f8a75d80-c547-11eb-8910-698c8bd9d637.png)
+
+![image](https://user-images.githubusercontent.com/83236722/120815795-1248a500-c548-11eb-8695-23ee9c0146fc.png)
+
+![image](https://user-images.githubusercontent.com/83236722/120815886-29879280-c548-11eb-87ec-ebb12c10b9c7.png)
+
+![image](https://user-images.githubusercontent.com/83236722/120815974-3b693580-c548-11eb-93f7-a757a04c73e2.png)
+
+![image](https://user-images.githubusercontent.com/83236722/120816064-5340b980-c548-11eb-8b14-75a52af351e8.png)
+
+![image](https://user-images.githubusercontent.com/83236722/120816162-694e7a00-c548-11eb-98b6-cd5d739871e7.png)
+
+![image](https://user-images.githubusercontent.com/83236722/120816254-7d927700-c548-11eb-83e0-81b7c5bbc48a.png)
+
+![image](https://user-images.githubusercontent.com/83236722/120816474-ad417f00-c548-11eb-8ba1-f7b30b2584a7.png)
+
+![image](https://user-images.githubusercontent.com/83236722/120816520-baf70480-c548-11eb-9ceb-833a6d8e47dd.png)
+
+![image](https://user-images.githubusercontent.com/83236722/120816607-d06c2e80-c548-11eb-8f56-d19b6951ff65.png)
+
+![image](https://user-images.githubusercontent.com/83236722/120816686-e4179500-c548-11eb-831f-1d3cf0734748.png)
+
+![image](https://user-images.githubusercontent.com/83236722/120816739-f1348400-c548-11eb-9f78-0478773d6b1b.png)
+
+![image](https://user-images.githubusercontent.com/83236722/120816812-04475400-c549-11eb-8bbd-b1ec721cde84.png)
+
+![image](https://user-images.githubusercontent.com/83236722/120816900-1b864180-c549-11eb-87c4-813ed4b7dfee.png)
+
 
 
 
