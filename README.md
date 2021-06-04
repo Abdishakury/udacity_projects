@@ -24,6 +24,16 @@ In order to succeed in this program, I recommend having experience working with 
 This project introduced me to the SQL and how to download data from a database. I have analyzed local and global temperature data and compare the temperature trends where I have lived to overall global 
 temperature trends.
 
+![image](https://user-images.githubusercontent.com/83236722/120813654-00660280-c546-11eb-8783-8bb28d891583.png)
+
+![image](https://user-images.githubusercontent.com/83236722/120813724-12e03c00-c546-11eb-8545-43dcfe76ea09.png)
+
+![image](https://user-images.githubusercontent.com/83236722/120813830-30ada100-c546-11eb-9c2c-da9b48a10fb7.png)
+
+![image](https://user-images.githubusercontent.com/83236722/120813918-46bb6180-c546-11eb-922d-5ac6c8e97d06.png)
+
+
+
 ## Project 2 : Investigate a Dataset (TMDb Movie Data)
 In this project, I have chosen one of Udacity’s curated datasets and investigate it using NumPy and pandas. I have completed the entire data analysis process, starting by posing a question and finishing by
 sharing your findings.
