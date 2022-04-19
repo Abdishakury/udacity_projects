@@ -2,7 +2,7 @@
 
 ## Project 1 - (Exploring Weather Trends)
 
-### Abdishakur Yoonin
+### Abdishakur Yoonis
 
 
 ## Introduction
